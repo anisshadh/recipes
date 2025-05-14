@@ -1,1 +1,1 @@
-This is a basic html project that shows sample recipes. Each one is made with real ingredients providing suprior taste and quality.
+This is a basic html project that shows sample recipes. Each one is made with real ingredients providing superior taste and quality.
