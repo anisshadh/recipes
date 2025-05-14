@@ -1,0 +1,1 @@
+This is a basic html project that shows sample recipes.
